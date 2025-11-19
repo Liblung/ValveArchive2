@@ -27,24 +27,38 @@ https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_23.20_pr
 
 ## Deadlock
 
-* [Build from 2024/10/24](https://drive.google.com/file/d/1Wat2GMksWumMJOymkSR0PjqIa3_xqgY-/view?usp=drive_link)
+* [Build from 2024/05/26](https://drive.google.com/file/d/1ZXbUBaBokcsn_fgfFCZUEW2wkUtOSQzT/view?usp=sharing)
+* [└─> Crack files(?)](https://drive.google.com/file/d/1hI6wu6l01WWzegbwhu6yN-n0Nw4CKGVD/view?usp=sharing)
+```change appid to 730 in
+gameinfo_branchspecific.gi
+steam.inf
+steam_appid.txt
+```
+* [Build from 2024/06/20](https://drive.google.com/file/d/1Q9am9kuve584RBu251KWFv2H4D3rFtzD/view)
 * [Build from 2024/07/11](https://drive.google.com/file/d/10MeAQ1W8drlTcI9QuMzMX7Z3tUVrMTIL/view?usp=sharing)
 * [└─> Crack files](https://www.mediafire.com/file/z7r8lfk9prtqx6h/7-11-24_crackfiles.zip/file)
-* [Build from 2024/06/20](https://drive.google.com/file/d/1Q9am9kuve584RBu251KWFv2H4D3rFtzD/view)
-* [Build from 2024/05/26](https://drive.google.com/file/d/1ZXbUBaBokcsn_fgfFCZUEW2wkUtOSQzT/view?usp=sharing)
+* [Build from 2024/10/24](https://drive.google.com/file/d/1Wat2GMksWumMJOymkSR0PjqIa3_xqgY-/view?usp=drive_link)
 
-https://drive.google.com/file/d/1Q9am9kuve584RBu251KWFv2H4D3rFtzD/view?usp=sharing
+---
 
 * [Neon Prime's tutorial videos](https://www.youtube.com/watch?v=xqJsU0iN_UI)
 * [Early playtest video](https://drive.google.com/file/d/1ttz882aMOPHrGmcH-Tpng6I4y3x3OtYz/view?usp=sharing)
 
-https://archive.org/details/deadlockdesign/k0lxov/mode/2up
-https://archive.org/details/deadlock_hero_protomodels
-https://archive.org/details/deadlock-all-leaked-footage-cleaned-up-organized
+---
 
-## Half-Life: Source
+* [Deadlock/Neon Prime Design Document Leak](https://archive.org/details/deadlockdesign/k0lxov/mode/2up)
+* [Deadlock Playtest Hero "Prototype" Models as of 8/26/24](https://archive.org/details/deadlock_hero_protomodels)
+* [Deadlock All Leaked Footage, Cleaned Up & Organized](https://archive.org/details/deadlock-all-leaked-footage-cleaned-up-organized)
 
-[https://drive.google.com/file/d/1XgdbsWULhkWs6eBbrQnFcLTe92reKQz5/view?usp=sharing](Half-Life: Source developer repo)
+## Half-Life
+
+* [Half-Life: Source developer repo](https://drive.google.com/file/d/1XgdbsWULhkWs6eBbrQnFcLTe92reKQz5/view?usp=sharing)
+
+## Half-Life 2
+
+* [Half Life 2 "RepoDump4" repo leak](https://drive.google.com/file/d/1eGCl2oI4zoeSoHhtLYsrMk2DUZgObsk2/view?usp=sharing)
+* [└─> Files unique to this that aren't in the other leak](https://drive.google.com/file/d/1sQcdKFaFQWiXaCVGeLo-4rM9v32AuzfR/view?usp=sharing)
+* [HL2 & EP2 press images](https://www.mediafire.com/file/vp2zh2ze35f7qn3/HL2_HL2EP2_Arts.rar/file)
 
 ## Left 4 Dead
 
