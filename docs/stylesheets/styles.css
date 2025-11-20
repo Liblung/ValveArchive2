@@ -4,7 +4,7 @@
    ============================================ */
 
 /* === Core Color Palette === */
-:root {
+html body[data-md-color-scheme="default"] {
     /* Glass/Aero colors */
     --aero-glass-bg: rgba(225, 240, 252, 0.75);
     --aero-glass-border: rgba(151, 181, 214, 0.9);
@@ -528,7 +528,10 @@ body {
 .md-tabs,
 label.md-header__button.md-icon[for="__search"],
 label.md-header__button.md-icon[for="__drawer"],
-.md-search
+.md-search,
+.md-sidebar--primary,
+.md-header__button.md-logo,
+[dir=ltr] .md-typeset table th[role=columnheader]:after
 {
 	display: none;
 	
@@ -543,4 +546,289 @@ label.md-header__button.md-icon[for="__drawer"],
 img
 {
 	max-height: 300px;
+}
+
+/* replace the marker for second-level list items */
+ul ul li::marker {
+  content: "→ ";   /* Unicode arrow + space */
+  font-weight: 600; /* optional styling */
+}
+
+/* ============================================================
+   Windows 7 Aero Glass Skeuomorphic Theme — Dark (Slate Mode)
+   ============================================================ */
+
+body[data-md-color-scheme="slate"] {
+    --aero-glass-bg: rgba(25, 32, 40, 0.55);
+    --aero-glass-border: rgba(90, 110, 130, 0.6);
+    --aero-glass-highlight: rgba(255, 255, 255, 0.1);
+    --aero-glass-shadow: rgba(0, 0, 0, 0.6);
+
+    --metal-light: #3d4754;
+    --metal-mid: #2d3742;
+    --metal-dark: #1b222b;
+    --metal-darker: #161c22;
+    --metal-shine: rgba(255, 255, 255, 0.15);
+
+    --window-title-start: #3c506a;
+    --window-title-end: #293a4f;
+    --window-border: #1a2533;
+
+    --text-primary: #d7e2ee;
+    --text-secondary: #a2b1c6;
+    --text-light: #ffffff;
+
+    --accent-blue: #58a2ff;
+    --accent-blue-hover: #3c7bd8;
+    --accent-glow: rgba(88, 162, 255, 0.45);
+}
+
+body[data-md-color-scheme="slate"] body {
+    background: #111a25 radial-gradient(ellipse at center, #1c2c3f 0%, #111a25 50%, #0c131c 100%);
+    background-attachment: fixed;
+    color: var(--text-primary);
+}
+
+/* === Glass Panels === */
+body[data-md-color-scheme="slate"] .md-container,
+body[data-md-color-scheme="slate"] .md-content,
+body[data-md-color-scheme="slate"] .md-sidebar {
+    background: var(--aero-glass-bg);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--aero-glass-border);
+    border-radius: 8px;
+    box-shadow:
+        0 8px 32px var(--aero-glass-shadow),
+        inset 0 1px 0 var(--aero-glass-highlight),
+        inset 0 -1px 0 rgba(0, 0, 0, 0.4);
+}
+
+/* === Header === */
+body[data-md-color-scheme="slate"] .md-header {
+	background: linear-gradient(to bottom,
+        var(--metal-dark),
+        var(--metal-darker));
+    border-bottom: 1px solid var(--metal-mid);
+    box-shadow:
+        0 1px 0 var(--metal-shine) inset,
+        0 2px 4px rgba(0,0,0,0.5);
+}
+
+body[data-md-color-scheme="slate"] .md-header::after {
+    background: linear-gradient(to bottom,
+        rgba(255,255,255,0.06),
+        rgba(255,255,255,0));
+}
+
+body[data-md-color-scheme="slate"] .md-header__title {
+    color: var(--text-light);
+    text-shadow: 0 1px 2px black;
+}
+
+/* === Header Buttons === */
+body[data-md-color-scheme="slate"] .md-header__button {
+    background: linear-gradient(to bottom,
+        rgba(255,255,255,0.08),
+        rgba(255,255,255,0.03));
+    border: 1px solid rgba(255,255,255,0.12);
+}
+
+body[data-md-color-scheme="slate"] .md-header__button:hover {
+    background: linear-gradient(to bottom,
+        rgba(255,255,255,0.15),
+        rgba(255,255,255,0.05));
+    border-color: rgba(255,255,255,0.25);
+    box-shadow: 0 0 8px rgba(255,255,255,0.2);
+}
+
+body[data-md-color-scheme="slate"] .md-header__button:active {
+    background: rgba(0,0,0,0.2);
+}
+
+/* === Tabs === */
+body[data-md-color-scheme="slate"] .md-tabs {
+    background: linear-gradient(to bottom,
+        var(--metal-mid),
+        var(--metal-dark));
+    border-bottom: 1px solid var(--metal-darker);
+    box-shadow:
+        0 1px 0 var(--metal-shine) inset,
+        0 2px 4px rgba(0,0,0,0.6);
+}
+
+body[data-md-color-scheme="slate"] .md-tabs__link {
+    background: linear-gradient(to bottom,
+        rgba(255,255,255,0.12),
+        rgba(255,255,255,0.04));
+    border: 1px solid rgba(255,255,255,0.2);
+    color: var(--text-primary);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.8);
+}
+
+body[data-md-color-scheme="slate"] .md-tabs__link:hover {
+    background: linear-gradient(to bottom,
+        rgba(255,255,255,0.2),
+        rgba(255,255,255,0.08));
+    box-shadow: 0 0 8px var(--accent-glow);
+}
+
+body[data-md-color-scheme="slate"] .md-tabs__item--active .md-tabs__link {
+    background: var(--aero-glass-bg);
+    border-color: var(--aero-glass-border);
+}
+
+/* === Sidebar === */
+body[data-md-color-scheme="slate"] .md-sidebar__scrollwrap {
+    background: rgba(255,255,255,0.05);
+}
+
+/* === Navigation Links === */
+body[data-md-color-scheme="slate"] .md-nav__link {
+    color: var(--text-primary);
+    text-shadow: 0 1px 0 rgba(0,0,0,0.7);
+}
+
+body[data-md-color-scheme="slate"] .md-nav__link:hover {
+    background: linear-gradient(to right,
+        rgba(255,255,255,0.1),
+        rgba(255,255,255,0.05));
+    border-left: 3px solid var(--accent-blue);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+body[data-md-color-scheme="slate"] .md-nav__link--active {
+    background: linear-gradient(to right,
+        rgba(88,162,255,0.15),
+        rgba(88,162,255,0.07));
+    border-left: 4px solid var(--accent-blue);
+    color: var(--accent-blue);
+}
+
+/* === Content Area === */
+body[data-md-color-scheme="slate"] .md-content__inner {
+    background: rgba(30, 38, 48, 0.75);
+    box-shadow:
+        0 4px 16px rgba(0,0,0,0.5),
+        inset 0 1px 0 rgba(255,255,255,0.1);
+}
+
+/* === Buttons === */
+body[data-md-color-scheme="slate"] .md-typeset .md-button {
+    background: linear-gradient(to bottom,
+        #3a4a5c,
+        #2e3a48 50%,
+        #25313e 51%,
+        #1f2a36);
+    border: 1px solid #4d6a88;
+    color: var(--text-light);
+    text-shadow: 0 1px 0 black;
+}
+
+body[data-md-color-scheme="slate"] .md-typeset .md-button:hover {
+    background: linear-gradient(to bottom,
+        #4a5d72,
+        #3a4a5c);
+    border-color: var(--accent-blue);
+    box-shadow: 0 0 8px var(--accent-glow);
+}
+
+body[data-md-color-scheme="slate"] .md-typeset .md-button--primary {
+    background: linear-gradient(to bottom,
+        #4f98ff,
+        #3c7be6 50%,
+        #2c66cf 51%,
+        #234faa);
+    border-color: #183c80;
+}
+
+/* === Tables === */
+body[data-md-color-scheme="slate"] table:not([class]) {
+    background: rgba(255,255,255,0.05);
+}
+
+body[data-md-color-scheme="slate"] table:not([class]) th {
+    background: linear-gradient(to bottom,
+        var(--metal-mid),
+        var(--metal-dark));
+    color: var(--text-primary);
+}
+
+body[data-md-color-scheme="slate"] table:not([class]) td {
+    background: rgba(255,255,255,0.03);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+body[data-md-color-scheme="slate"] table:not([class]) tbody tr:hover {
+    background: rgba(88,162,255,0.1);
+}
+
+/* === Code Blocks === */
+body[data-md-color-scheme="slate"] pre {
+    background: rgba(18, 24, 31, 0.9);
+    border: 1px solid rgba(255,255,255,0.12);
+}
+
+body[data-md-color-scheme="slate"] code {
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.12);
+}
+
+/* === Admonitions === */
+body[data-md-color-scheme="slate"] .admonition {
+    background: rgba(20, 26, 33, 0.85);
+}
+
+/* === Footer === */
+body[data-md-color-scheme="slate"] .md-footer {
+    background: linear-gradient(to bottom,
+        var(--metal-mid),
+        var(--metal-dark));
+    color: var(--text-light);
+}
+
+/* === Search Bar === */
+body[data-md-color-scheme="slate"] .md-search__input {
+    background: rgba(255,255,255,0.1);
+    border: 1px solid var(--aero-glass-border);
+    color: var(--text-light);
+}
+
+/* === Scrollbars === */
+body[data-md-color-scheme="slate"] ::-webkit-scrollbar-track {
+    background: rgba(40,50,60,0.5);
+}
+
+body[data-md-color-scheme="slate"] ::-webkit-scrollbar-thumb {
+    background: linear-gradient(to right,
+        #4a5d72,
+        #3a4a5c);
+    border-color: #2b3744;
+}
+
+/* === Images === */
+body[data-md-color-scheme="slate"] img {
+    background: #111a25;
+    border-color: rgba(255,255,255,0.1);
+}
+
+/* === Links === */
+body[data-md-color-scheme="slate"] .md-typeset a {
+    color: var(--accent-blue);
+}
+
+body[data-md-color-scheme="slate"] .md-typeset a:hover {
+    color: var(--accent-blue-hover);
+}
+
+/* === Reflections === */
+body[data-md-color-scheme="slate"] .md-content::before {
+    background: linear-gradient(to bottom,
+        rgba(255,255,255,0.05),
+        rgba(255,255,255,0));
+}
+
+/* === Second-level list marker === */
+body[data-md-color-scheme="slate"] ul ul li::marker {
+    content: "→ ";
+    font-weight: 600;
 }

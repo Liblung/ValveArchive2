@@ -14,12 +14,6 @@ Focus:
 * What Valve Archive doesn't include,
 * What Valve Archive *won't* include.
 
-Embed: Discord link
-
-## Notable Archives
-
-(https://archive.surfacesphere.xyz/)[https://archive.surfacesphere.xyz/]
-
 ## Repo Leak
 
 * [Myrient](https://myrient.erista.me/files/Miscellaneous/Valve%20Developer%20Repository/)
@@ -31,9 +25,9 @@ Embed: Discord link
 ### Counter Strike
 
 * [2011/08/10 Build](https://drive.google.com/file/d/1bsp3UiwOnwFD1VCz5VHZEJnSo7bQ8owS/view)
-https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_21.45_prototype)
-https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_22.37_prototype)
-https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_23.20_prototype)
+* https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_21.45_prototype)
+* https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_22.37_prototype)
+* https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_23.20_prototype)
 
 ---
 
