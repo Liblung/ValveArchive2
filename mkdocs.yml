@@ -2,8 +2,7 @@ site_name: Valve Archive 2
 site_url: https://liblung.github.io/ValveArchive2
 repo_url: https://github.com/Liblung/ValveArchive2
 repo_name: Liblung/ValveArchive2
-copyright: >
-  It's not about you. It's about the flex box.
+copyright: Beta deserves to be free.
 plugins:
   - search
   - meta
@@ -22,9 +21,8 @@ extra_javascript:
 theme:
   name: material
   custom_dir: docs/overrides
-  icon:
-    repo: material/github
-    logo: material/file-document
+  favicon: img/favicon.png
+  logo: img/favicon.png
 
   palette:
     - media: "(prefers-color-scheme: light)"

@@ -87,10 +87,9 @@ steam_appid.txt
 ---
 * [HL2 & EP2 press images](https://www.mediafire.com/file/vp2zh2ze35f7qn3/HL2_HL2EP2_Arts.rar/file)
 * [HL2 E3 demonstration with Gabe Newell commentary](https://youtu.be/PbBk5i2Nlxo)
+* [Brickwall003 source images](img/brickwall003.zip)
 
-References
-
-| 1 | 2 |
+| References |  |
 | --- | --- |
 | ![](img/Pasted%20image%2020251119173246.png) | ![](img/Pasted%20image%2020251119173353.png)
 
@@ -108,6 +107,8 @@ References
 
 ---
 * [Initial release of Left 4 Dead](https://archive.org/details/left-4-dead-v-1.0.0.0)
+* ["Cross platform development" - Contains early L4D menu](img/GDC2008_CrossPlatformDevelopment%20(1).pdf)
+* ![](img/Pasted%20image%2020251119200522.png)
 
 ### Portal
 
@@ -191,16 +192,16 @@ References
 * [Build from 2023/01/01](https://hgrunt.xyz/filedrop/Exposure%201-10-23.7z)
 
 ---
-* [Exposure clips 1](https://drive.google.com/file/d/1B3AMM_nLyakRlDhfI_s7pW6axyPptJ-i/view?usp=sharing)
+* [Exposure clips 1](https://drive.google.com/file/d/1liZ6AvuS1AM-NY5-EwOTXS-YnUXhRkGn/view)
 * [Exposure clips 2](https://drive.google.com/file/d/1B3AMM_nLyakRlDhfI_s7pW6axyPptJ-i/view)
 
 ## Other
 
 [1998 Valve Software IRC interviews](https://archive.org/details/irc-interviews)
 
-Valve VSS shots: 
 
-| 1                                    | 2                                    | 3                                    |
+
+| Valve VSS shots                                    |                                     |                                     |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 | ![](img/Pasted image 20251119160530.png) | ![](img/Pasted image 20251119160547.png) | ![](img/Pasted image 20251119160552.png) |
 

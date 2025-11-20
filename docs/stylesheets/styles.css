@@ -387,64 +387,6 @@ body {
     outline: none;
 }
 
-/* === Scrollbars - Chrome Style === */
-::-webkit-scrollbar {
-    width: 16px;
-    height: 16px;
-}
-
-::-webkit-scrollbar-track {
-    background: linear-gradient(to right,
-        rgba(200, 215, 235, 0.6),
-        rgba(220, 230, 245, 0.6));
-    border: 1px solid rgba(151, 181, 214, 0.5);
-    border-radius: 0;
-}
-
-::-webkit-scrollbar-thumb {
-    background: linear-gradient(to right,
-        #d0e0f0 0%,
-        #b8d0e8 50%,
-        #a0c0e0 100%);
-    border: 1px solid #88a8c8;
-    border-radius: 3px;
-    box-shadow: 
-        inset 0 0 6px rgba(255, 255, 255, 0.5),
-        0 1px 2px rgba(0, 0, 0, 0.1);
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(to right,
-        #c0d8f0 0%,
-        #a8c8e8 50%,
-        #90b8e0 100%);
-    box-shadow: 
-        inset 0 0 8px rgba(255, 255, 255, 0.6),
-        0 2px 4px rgba(0, 0, 0, 0.15);
-}
-
-::-webkit-scrollbar-thumb:active {
-    background: linear-gradient(to right,
-        #90b8e0 0%,
-        #78a0d0 50%,
-        #6088c0 100%);
-}
-
-::-webkit-scrollbar-button {
-    background: linear-gradient(to bottom,
-        var(--metal-light),
-        var(--metal-mid));
-    border: 1px solid var(--metal-dark);
-    height: 16px;
-    width: 16px;
-}
-
-::-webkit-scrollbar-button:hover {
-    background: linear-gradient(to bottom,
-        #f0f5fa,
-        var(--metal-light));
-}
-
 /* === Image Cards - Raised Glass === */
 .md-typeset img {
     border: 1px solid var(--aero-glass-border);
@@ -546,6 +488,11 @@ label.md-header__button.md-icon[for="__drawer"],
 img
 {
 	max-height: 300px;
+}
+
+.hljs-deletion, .hljs-number, .hljs-quote, .hljs-selector-class, .hljs-selector-id, .hljs-string, .hljs-template-tag, .hljs-type
+{
+	color: white !important;
 }
 
 /* replace the marker for second-level list items */
@@ -791,18 +738,6 @@ body[data-md-color-scheme="slate"] .md-search__input {
     background: rgba(255,255,255,0.1);
     border: 1px solid var(--aero-glass-border);
     color: var(--text-light);
-}
-
-/* === Scrollbars === */
-body[data-md-color-scheme="slate"] ::-webkit-scrollbar-track {
-    background: rgba(40,50,60,0.5);
-}
-
-body[data-md-color-scheme="slate"] ::-webkit-scrollbar-thumb {
-    background: linear-gradient(to right,
-        #4a5d72,
-        #3a4a5c);
-    border-color: #2b3744;
 }
 
 /* === Images === */
