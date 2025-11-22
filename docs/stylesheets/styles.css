@@ -506,7 +506,7 @@ ul ul li::marker {
    ============================================================ */
 
 body[data-md-color-scheme="slate"] {
-    --aero-glass-bg: rgba(25, 32, 40, 0.55);
+    --aero-glass-bg: rgba(45, 52, 67, 0.7);
     --aero-glass-border: rgba(90, 110, 130, 0.6);
     --aero-glass-highlight: rgba(255, 255, 255, 0.1);
     --aero-glass-shadow: rgba(0, 0, 0, 0.6);
@@ -766,4 +766,18 @@ body[data-md-color-scheme="slate"] .md-content::before {
 body[data-md-color-scheme="slate"] ul ul li::marker {
     content: "→ ";
     font-weight: 600;
+}
+
+a.floating-link {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  width: 96px;
+  height: 96px;
+}
+
+a.floating-link img {
+  width: 100%;
+  height: 100%;
+  display: block;
 }

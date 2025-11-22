@@ -4,6 +4,11 @@ icon: material/home
 extra_css:
   - stylesheets/mainpage.css
 ---
+<!--
+<a href="https://discord.gg/vnbMRQn4sc" class="floating-link">
+  <img src="img/Skeuomorphic%20Discord.png" alt="Discord invite">
+</a>
+-->
 
 # Valve Archive 2
 
@@ -14,11 +19,13 @@ Focus:
 * What Valve Archive doesn't include,
 * What Valve Archive *won't* include.
 
+Feedback? Dead links? Contributions? Let us know on [Discord](https://discord.gg/vnbMRQn4sc).
+
 ## Repo Leak
 
 * [Myrient](https://myrient.erista.me/files/Miscellaneous/Valve%20Developer%20Repository/)
 * [Torrent](magnet:?xt=urn:btih:5ac001d86b20f7f7dbe29880dbfef16c64a34a91&dn=Valve%20Leaks&xl=32757729478&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zerobytes.xyz%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pomf.se%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.monitorit4.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.loadbt.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.lelux.fi%3A6969%2Fannounce)
-* └─> Don't have a torrent client? Try [qBittorrent](https://www.qbittorrent.org/download) to open this.
+	* Don't have a torrent client? Try [qBittorrent](https://www.qbittorrent.org/download) to open this.
 
 ## Games
 
@@ -42,12 +49,20 @@ Focus:
 * [2003 Counter-Strike Press Disk](https://drive.google.com/file/d/1WXU2T_llhPX2JJ8mOefg2C2PyWXbXUCL/view)
 * [Venice Textures for CS 1.6](https://archive.org/details/venice_textures)
 
+---
 
+| Shots of unreleased depot map |
+| --- | 
+| ![](img/rendercombined.webp) |
+
+| Dust 2 concepts |
+| --- | 
+| ![](img/rendercombined.webp) |
 
 ### Deadlock
 
 * [Build from 2024/05/26](https://drive.google.com/file/d/1ZXbUBaBokcsn_fgfFCZUEW2wkUtOSQzT/view?usp=sharing)
-* [└─> Crack files(?)](https://drive.google.com/file/d/1hI6wu6l01WWzegbwhu6yN-n0Nw4CKGVD/view?usp=sharing)
+	* [Crack files(?)](https://drive.google.com/file/d/1hI6wu6l01WWzegbwhu6yN-n0Nw4CKGVD/view?usp=sharing)
 ```
 change appid to 730 in
 gameinfo_branchspecific.gi
@@ -56,7 +71,7 @@ steam_appid.txt
 ```
 * [Build from 2024/06/20](https://drive.google.com/file/d/1Q9am9kuve584RBu251KWFv2H4D3rFtzD/view)
 * [Build from 2024/07/11](https://drive.google.com/file/d/10MeAQ1W8drlTcI9QuMzMX7Z3tUVrMTIL/view?usp=sharing)
-* [└─> Crack files](https://www.mediafire.com/file/z7r8lfk9prtqx6h/7-11-24_crackfiles.zip/file)
+	* [Crack files](https://www.mediafire.com/file/z7r8lfk9prtqx6h/7-11-24_crackfiles.zip/file)
 * [Build from 2024/10/24](https://drive.google.com/file/d/1Wat2GMksWumMJOymkSR0PjqIa3_xqgY-/view?usp=drive_link)
 
 ---
@@ -78,10 +93,12 @@ steam_appid.txt
 * [Missing Half-Life monster demonstrations](https://archive.org/details/monsteroftheweek_202303)
 * [Dario's 25th anniversary mapping commentary](https://youtu.be/naWgflzwwTc)
 * [Various screenshots and concept art](img/hlarchivebeta7.zip)
+* [Beta surface tension pipe](https://www.youtube.com/watch?v=9so8YeFis4E) -> See 0:41
+
 ### Half-Life 2
 
 * [Half Life 2 "RepoDump4" repo leak](https://drive.google.com/file/d/1eGCl2oI4zoeSoHhtLYsrMk2DUZgObsk2/view?usp=sharing)
-* [└─> Files unique to this that aren't in the other leak](https://drive.google.com/file/d/1sQcdKFaFQWiXaCVGeLo-4rM9v32AuzfR/view?usp=sharing)
+	* [Files unique to this that aren't in the other leak](https://drive.google.com/file/d/1sQcdKFaFQWiXaCVGeLo-4rM9v32AuzfR/view?usp=sharing)
 * [Miscellaneous "beta - 2" leak](https://drive.google.com/file/d/1hVtRMHIjPrXRZ7tgD2S-UWo5Qs5rbfyb/view)
 
 ---
@@ -95,6 +112,8 @@ steam_appid.txt
 
 ### Half-Life 2: Episode 2
 
+* [Different EP2 files from the Postal 3 leak](https://drive.google.com/file/d/19aTKWPcADZLIdy9l3SHH3inNRW8_Rkfa/view)
+
 * [Cache of screenshots & high-quality art](https://drive.google.com/file/d/1YAjMwerQDwGTq6mW83JoNoda2lL72Pmz/view?usp=sharing)
 
 ### Half-Life 2: Episode 4 (Return to Ravenholm)
@@ -103,7 +122,7 @@ steam_appid.txt
 
 ### Left 4 Dead
 
-* └─>See Also: [Ceno's Left 4 Dead Archive](https://drive.google.com/drive/folders/1USAsKOm3fix7HkIq1LbjwQl1DhRV48Tq)
+* * See Also: [Ceno's Left 4 Dead Archive](https://drive.google.com/drive/folders/1USAsKOm3fix7HkIq1LbjwQl1DhRV48Tq)
 
 * [L4D0 Sources and assets](https://drive.google.com/drive/folders/18b-ddtww3GrVLVAouYZ4s2tm63jorx7-?usp=sharing)
 
@@ -114,6 +133,7 @@ steam_appid.txt
 
 ### Portal
 
+* [
 * [Portal 2 2014 developer build](https://mega.nz/file/KNADTBxJ#tKb_grGtl5h4qKZLiQFq9T5RXf4aAfmkqU9ux6oNkYo)
 * [Archive of early postrelease Portal 2 depots](https://gofile.io/d/J6h8ed)
 
@@ -131,7 +151,7 @@ steam_appid.txt
 
 ---
 * [Moby Francke powerpoint file](https://docs.google.com/presentation/d/1qGb_AYyrTXXWniJ30ByE9kYJCIUxhs6p/edit?usp=sharing&ouid=109539870747969870414&rtpof=true&sd=true)
-	*  └─> [Extracted Images](img/media.zip)
+	* [Extracted Images](img/media.zip)
 
 ---
 * [Fixed XML DMXs](https://drive.google.com/file/d/1OV4i6xm3aeqNHiS2ytML0src7X73E2DA/view)
@@ -142,11 +162,12 @@ steam_appid.txt
 * [MTT Sniper Song Variations](https://archive.org/details/mtt_sniper_music_09_novox)
 * [Early Expiration Date leak doc](img/Copy%20of%2015%20min%20leak.docx)
 * [Early Expiration Date assets](img/fixedshorts.7z)
+* [Recovered Expiration Date scout dance](https://drive.google.com/file/d/1Fmlvtn5A3T-l1PNlWJZaE3D2XFLfLkle/view) [(Source)](https://x.com/sealgb/status/1880356024282149201#m)
 * [Original Meet The Spy monologue](img/bateman_first_spy.wav)
 
-| Spy Image    |     |
-| --- | --- |
-| ![](img/Pasted%20image%2020251119173944.png) |     |
+| Spy Image    | 
+| --- | 
+| ![](img/Pasted%20image%2020251119173944.png) | 
 
 | Moby Francke portrait sketches                              |                               |                               |
 | ----------------------------- | ----------------------------- | ----------------------------- |
@@ -173,13 +194,9 @@ steam_appid.txt
 
 ## Team Fortress 2 (Early)
 
-
-
-
 | Rubin Highschool shots    |     |
 | --- | --- |
 | ![](img/4553331491_3754a22583_o.webp)    | ![](img/4553333117_a828fcbb5b_o.webp)    |
-
 
 ## Mods
 
@@ -201,12 +218,11 @@ steam_appid.txt
 
 [1998 Valve Software IRC interviews](https://archive.org/details/irc-interviews)
 
-
-
 | Valve VSS shots                                    |                                     |                                     |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![](img/Pasted image 20251119160530.png) | ![](img/Pasted image 20251119160547.png) | ![](img/Pasted image 20251119160552.png) |
+| ![](img/Pasted image 20251119160530.png) | ![](img/Pasted%20image%2020251122155612.png) | ![](img/Pasted image 20251119160552.png) |
 
 ## Src
 
-[Tactical Intervention Source](https://archive.org/details/taicnt-code)
+* [Tactical Intervention Source](https://archive.org/details/taicnt-code)
+* [2020 Leak, TF2/hl2](https://github.com/lua9520/source-engine-2018-hl2_src), [2020 Leak, cstrike15](https://github.com/lua9520/source-engine-2018-cstrike15_src) [Original packaging with F-Stop recreation](https://archive.org/details/april-22nd-2020-random-leaked-shit_202108) 
