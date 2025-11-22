@@ -363,7 +363,7 @@ body {
 .md-footer-meta {
     background: linear-gradient(to bottom,
         var(--metal-dark) 0%,
-        #5a7a9c 100%);
+        var(--metal-darker) 100%);
     border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 

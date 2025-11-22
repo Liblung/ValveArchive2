@@ -144,7 +144,7 @@ steam_appid.txt
 * [Portal 2 TV Spot Older Render](https://archive.org/details/portal2_tvspot_old)
 
 
-## Team Fortress 2
+### Team Fortress 2
 
 * [Full TF repository leak](https://drive.google.com/file/d/1vA_YiVkpU-iJfjcwAzb5VszONAbRn81S/view)
 * [Postal 3 full leak](https://hgrunt.xyz/filedrop/Postal+III.rar)
@@ -192,7 +192,7 @@ steam_appid.txt
 | ![](img/Pasted%20image%2020251119174014.png) | ![](img/Pasted%20image%2020251119174021.png) | ![](img/Pasted%20image%2020251119174028.png) |
 | ![](img/Pasted%20image%2020251119174102.png) | ![](img/Pasted%20image%2020251119174106.png)
 
-## Team Fortress 2 (Early)
+### Team Fortress 2 (Early)
 
 | Rubin Highschool shots    |     |
 | --- | --- |
@@ -225,4 +225,7 @@ steam_appid.txt
 ## Src
 
 * [Tactical Intervention Source](https://archive.org/details/taicnt-code)
-* [2020 Leak, TF2/hl2](https://github.com/lua9520/source-engine-2018-hl2_src), [2020 Leak, cstrike15](https://github.com/lua9520/source-engine-2018-cstrike15_src) [Original packaging with F-Stop recreation](https://archive.org/details/april-22nd-2020-random-leaked-shit_202108) 
+* 2020 Leak Links:
+	* [2020 Leak, TF2/hl2](https://github.com/lua9520/source-engine-2018-hl2_src)
+	* [2020 Leak, cstrike15](https://github.com/lua9520/source-engine-2018-cstrike15_src) 
+	* [Original packaging with F-Stop recreation](https://archive.org/details/april-22nd-2020-random-leaked-shit_202108) 
