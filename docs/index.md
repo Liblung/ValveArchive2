@@ -215,6 +215,9 @@ steam_appid.txt
 * [Earlier Build](https://drive.google.com/file/d/1Z3dGdPWhYmvD6YrfBJszh3OuZvDNmEHZ/view)
 * [Later Build](https://archive.org/details/boreal-alyph-b0.5.1498-stable)
 
+### Classic Offensive
+
+* [Leaked Build](https://archive.org/details/classic-offensive) [Mirrors](https://classicoffensive.net/#download)
 ### Exposure
 
 * [Build from 2023/01/01](https://hgrunt.xyz/filedrop/Exposure%201-10-23.7z)
@@ -234,6 +237,7 @@ steam_appid.txt
 ## Src
 
 * [Tactical Intervention Source](https://archive.org/details/taicnt-code)
+	* [Paint gun code from TI](https://archive.org/details/paint_202207)
 * 2020 Leak Links:
 	* [2020 Leak, TF2/hl2](https://github.com/lua9520/source-engine-2018-hl2_src)
 	* [2020 Leak, cstrike15](https://github.com/lua9520/source-engine-2018-cstrike15_src) 
