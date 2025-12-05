@@ -698,6 +698,7 @@ body[data-md-color-scheme="slate"] table:not([class]) th {
         var(--metal-mid),
         var(--metal-dark));
     color: var(--text-primary);
+	text-shadow: rgba(0, 0, 0, 0.8) 0px 1px 0px;
 }
 
 body[data-md-color-scheme="slate"] table:not([class]) td {

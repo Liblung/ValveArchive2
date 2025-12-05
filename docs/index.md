@@ -24,6 +24,7 @@ Feedback? Dead links? Contributions? Let us know on [Discord](https://discord.gg
 ## Repo Leak
 
 * [Myrient](https://myrient.erista.me/files/Miscellaneous/Valve%20Developer%20Repository/)
+* [Archive.org](https://archive.org/details/tf2__20230116)
 * [Torrent](magnet:?xt=urn:btih:5ac001d86b20f7f7dbe29880dbfef16c64a34a91&dn=Valve%20Leaks&xl=32757729478&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2810%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=https%3A%2F%2Fopentracker.i2p.rocks%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fwww.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker1.bt.moack.co.kr%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zerobytes.xyz%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pomf.se%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.monitorit4.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.loadbt.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.lelux.fi%3A6969%2Fannounce)
 	* Don't have a torrent client? Try [qBittorrent](https://www.qbittorrent.org/download) to open this.
 
@@ -32,9 +33,12 @@ Feedback? Dead links? Contributions? Let us know on [Discord](https://discord.gg
 ### Counter Strike
 
 * [2011/08/10 Build](https://drive.google.com/file/d/1bsp3UiwOnwFD1VCz5VHZEJnSo7bQ8owS/view)
-* https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_21.45_prototype)
-* https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_22.37_prototype)
-* https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Sep_13,_2012_23.20_prototype)
+* [2011/12/22 Build](https://mega.nz/file/3vBw1JLA#sRVdCXsIvdrppHPqOKxU3HbNbgPYWiERgneNpAvVqrk)
+* [2012/06/18 Build](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(June_18,_2012_prototype\))
+* [2012/09/13 Build 1](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Sep_13,_2012_21.45_prototype\))
+* [2012/09/13 Build 2](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Sep_13,_2012_22.37_prototype\))
+* [2012/09/13 Build 3](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Sep_13,_2012_23.20_prototype\))
+* [CS Xbox Beta Files](https://drive.google.com/file/d/12Wq6H2dwM46_zJus21MtP77-dTk7eOYZ/view?usp=sharing)
 
 ---
 
@@ -52,10 +56,6 @@ Feedback? Dead links? Contributions? Let us know on [Discord](https://discord.gg
 ---
 
 | Shots of unreleased depot map |
-| --- | 
-| ![](img/rendercombined.webp) |
-
-| Dust 2 concepts |
 | --- | 
 | ![](img/rendercombined.webp) |
 
@@ -89,6 +89,7 @@ steam_appid.txt
 
 * [Half-Life: Source developer repo](https://drive.google.com/file/d/1XgdbsWULhkWs6eBbrQnFcLTe92reKQz5/view?usp=sharing)
 * [Half-Life Animation Development Files](https://archive.org/details/hldevfiles)
+* [SDKPatch](![](img/SDKPatch_1.7z)
 ---
 * [Missing Half-Life monster demonstrations](https://archive.org/details/monsteroftheweek_202303)
 * [Dario's 25th anniversary mapping commentary](https://youtu.be/naWgflzwwTc)
@@ -106,10 +107,14 @@ steam_appid.txt
 * [HL2 E3 demonstration with Gabe Newell commentary](https://youtu.be/PbBk5i2Nlxo)
 * [Brickwall003 source images](img/brickwall003.zip)
 
-| References |  |
-| --- | --- |
-| ![](img/Pasted%20image%2020251119173246.png) | ![](img/Pasted%20image%2020251119173353.png)
+| References                                   |                                              |
+| -------------------------------------------- | -------------------------------------------- |
+| ![](img/Pasted%20image%2020251119173246.png) | ![](img/Pasted%20image%2020251119173353.png) |
 
+
+| Scribbled old metrocop texture (authenticity ambiguous)                                   |        
+| -------------------------------------------- | 
+| ![](img/PEL_DELETED_IT_ALL.webp) |
 ### Half-Life 2: Episode 2
 
 * [Different EP2 files from the Postal 3 leak](https://drive.google.com/file/d/19aTKWPcADZLIdy9l3SHH3inNRW8_Rkfa/view)
@@ -133,7 +138,6 @@ steam_appid.txt
 
 ### Portal
 
-* [
 * [Portal 2 2014 developer build](https://mega.nz/file/KNADTBxJ#tKb_grGtl5h4qKZLiQFq9T5RXf4aAfmkqU9ux6oNkYo)
 * [Archive of early postrelease Portal 2 depots](https://gofile.io/d/J6h8ed)
 
@@ -143,6 +147,10 @@ steam_appid.txt
 * [Stems for the turret opera. Uncertain legitimacy.](https://drive.google.com/file/d/15esxnwxItP-3WxHA8PWrZrceGO47I8mB/view?usp=sharing )
 * [Portal 2 TV Spot Older Render](https://archive.org/details/portal2_tvspot_old)
 
+
+### Source Filmmaker
+
+* [2025 Depot Leak](https://archive.org/details/sfmbeta.7z) [\[Google Drive\]](https://drive.google.com/file/d/12hecIkQeL97jMxvQtnC-jyUmYyqI6lnU/view?usp=drive_link)
 
 ### Team Fortress 2
 
@@ -156,6 +164,11 @@ steam_appid.txt
 ---
 * [Fixed XML DMXs](https://drive.google.com/file/d/1OV4i6xm3aeqNHiS2ytML0src7X73E2DA/view)
 * [Trailer 1 font](https://drive.google.com/file/d/1-KR9Rsq6ueS_ysWfxJCmfC4WMBuyW5N3/view)
+
+---
+* [2008 TF2 PC Gamer Strategy Guide](https://drive.google.com/drive/folders/1qpn7U9WKBIIsBxO4_Z7Bq_sGrMIKYpzG?usp=sharing)
+* [Prima Strategy Guide Image Scans](https://pixeldrain.com/u/JNQbvuHv)
+* [2006 Magazine](https://drive.google.com/drive/folders/12eLd5b5frPRba1gmDNUxxowckGLASGHP?usp=sharing)
 
 ---
 * [Scrapped Halloween 2014 animation](https://www.youtube.com/watch?v=4PIZsGNvNNE)
@@ -175,22 +188,18 @@ steam_appid.txt
 | ![](img/image_-_8629726.webp) | ![](img/image_-_484158.webp)  | ![](img/image_-_7531887.webp) |
 | ![](img/image_-_7978960.webp) | ![](img/image_-_9869570.webp) | ![](img/image_-_9423153.webp) |
 
-![](img/image_-_9976978.webp)
-
-
-
 | [Leeroy Vanilla comic art](https://www.artstation.com/artwork/Zebe98)    |     |
 | --- | --- |
 | ![](img/leeroy-vanilla-team-006.jpg)    | ![](img/leeroy-vanilla-team-007.jpg)    |
-
-
-
-
 
 | Jeff Balinger Images    |     | |
 | --- | --- | --- |
 | ![](img/Pasted%20image%2020251119174014.png) | ![](img/Pasted%20image%2020251119174021.png) | ![](img/Pasted%20image%2020251119174028.png) |
 | ![](img/Pasted%20image%2020251119174102.png) | ![](img/Pasted%20image%2020251119174106.png)
+
+| Misc | | |
+| --- | --- | --- |
+| ![](img/image_-_9976978.webp) | ![](img/image60.webp)| ![](img/conceptengie1.webp) | 
 
 ### Team Fortress 2 (Early)
 
