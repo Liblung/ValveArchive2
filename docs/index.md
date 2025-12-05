@@ -103,7 +103,7 @@ steam_appid.txt
 * [Miscellaneous "beta - 2" leak](https://drive.google.com/file/d/1hVtRMHIjPrXRZ7tgD2S-UWo5Qs5rbfyb/view)
 
 ---
-* [HL2 & EP2 press images](https://www.mediafire.com/file/vp2zh2ze35f7qn3/HL2_HL2EP2_Arts.rar/file)
+* [HL2 & EP2 press images](https://drive.google.com/file/d/1PZ56sfEqfOT4W4Tu4I9MDw96HVOb24qU/view?usp=sharing)
 * [HL2 E3 demonstration with Gabe Newell commentary](https://youtu.be/PbBk5i2Nlxo)
 * [Brickwall003 source images](img/brickwall003.zip)
 
