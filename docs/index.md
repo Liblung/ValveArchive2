@@ -33,7 +33,7 @@ Feedback? Dead links? Contributions? Let us know on [Discord](https://discord.gg
 ### Counter Strike
 
 * [2011/08/10 Build](https://drive.google.com/file/d/1bsp3UiwOnwFD1VCz5VHZEJnSo7bQ8owS/view)
-* [2011/12/22 Build](https://mega.nz/file/3vBw1JLA#sRVdCXsIvdrppHPqOKxU3HbNbgPYWiERgneNpAvVqrk)
+* [2011/12/22 Build](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Dec_22,_2011_prototype\))
 * [2012/06/18 Build](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(June_18,_2012_prototype\))
 * [2012/09/13 Build 1](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Sep_13,_2012_21.45_prototype\))
 * [2012/09/13 Build 2](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Sep_13,_2012_22.37_prototype\))
@@ -42,10 +42,11 @@ Feedback? Dead links? Contributions? Let us know on [Discord](https://discord.gg
 
 ---
 
-* [Prerelease Weapon Models](img/Prerelease%20Weapon%20Models%20(Unknown%20Date).7z)
-* [CSGN_Brian.ZTL](img/CSGN_Brian.ztl)
-* [2019/04/10 C4 Sources](img/C4%20(10-02-2019).7z)
-* [Various PSDs](https://drive.google.com/drive/folders/1ak8x2DiBi7JxDuq1F-WvSpRl6dt1YOEN?usp=sharing)
+* SurfaceSphere leaks
+	* [Prerelease Weapon Models](img/Prerelease%20Weapon%20Models%20(Unknown%20Date).7z)
+	* [CSGN_Brian.ZTL](img/CSGN_Brian.ztl)
+	* [2019/04/10 C4 Sources](img/C4%20(10-02-2019).7z)
+	* [Various PSDs](https://drive.google.com/drive/folders/1ak8x2DiBi7JxDuq1F-WvSpRl6dt1YOEN?usp=sharing)
 
 ---
 
@@ -156,10 +157,12 @@ steam_appid.txt
 
 * [Full TF repository leak](https://drive.google.com/file/d/1vA_YiVkpU-iJfjcwAzb5VszONAbRn81S/view)
 * [Postal 3 full leak](https://hgrunt.xyz/filedrop/Postal+III.rar)
+* [Organized archive of older builds](https://docs.google.com/spreadsheets/d/1ltvVYhmY4GbBqmNa8OIt1-WzJ-XGZwcj06qlKdahzQg/edit?gid=1378522990#gid=1378522990)
 
 ---
 * [Moby Francke powerpoint file](https://docs.google.com/presentation/d/1qGb_AYyrTXXWniJ30ByE9kYJCIUxhs6p/edit?usp=sharing&ouid=109539870747969870414&rtpof=true&sd=true)
 	* [Extracted Images](img/media.zip)
+<!--	* <b>[Image coverage](article/Moby_Francke)</b>-->
 
 ---
 * [Fixed XML DMXs](https://drive.google.com/file/d/1OV4i6xm3aeqNHiS2ytML0src7X73E2DA/view)
@@ -217,7 +220,12 @@ steam_appid.txt
 
 ### Classic Offensive
 
-* [Leaked Build](https://archive.org/details/classic-offensive) [Mirrors](https://classicoffensive.net/#download)
+* [Leaked Build](https://archive.org/details/classic-offensive) [\[Mirrors\]](https://classicoffensive.net/#download)
+
+### HDTF 
+
+* [Source files and 2017 build](https://www.mediafire.com/folder/2lrydopgtkvbj/)
+
 ### Exposure
 
 * [Build from 2023/01/01](https://hgrunt.xyz/filedrop/Exposure%201-10-23.7z)
@@ -226,10 +234,27 @@ steam_appid.txt
 * [Exposure clips 1](https://drive.google.com/file/d/1liZ6AvuS1AM-NY5-EwOTXS-YnUXhRkGn/view)
 * [Exposure clips 2](https://drive.google.com/file/d/1B3AMM_nLyakRlDhfI_s7pW6axyPptJ-i/view)
 
+### TF2
+
+#### Open Fortress
+
+* [Scrapped Open Fortress source base](https://archive.org/details/open-fortress-source-base-osx-master)
+* [2024/02/08 Source code](https://drive.google.com/file/d/1W6j_KqPoHNbIswEVOHZpDc_9FhNrQlne/view?usp=sharing)
+* [2024/09/05 Source code](https://drive.google.com/file/d/1FtyAA_4IXR1fBaGCRKN2lYtqppQdFuzs/view?usp=sharing)
+
+
+#### TF2C
+
+* [TF2C Build archive, including leaks](https://docs.google.com/spreadsheets/d/1ltvVYhmY4GbBqmNa8OIt1-WzJ-XGZwcj06qlKdahzQg/edit?gid=1480386432#gid=1480386432)
+* [2024/01/17 Source code](https://archive.org/details/tf-2c-src-01-17-24.-7z)
+#### Pre-Fortress
+
+* [Early Source Release](https://archive.org/details/pf2-src-master)
+
 ## Other
 
-[1998 Valve Software IRC interviews](https://archive.org/details/irc-interviews)
-[Provision leak remake](Provision_leak_remake.zip)
+* [1998 Valve Software IRC interviews](https://archive.org/details/irc-interviews)
+* [Provision leak remake](img/Provision_leak_remake.zip)
 
 
 | Valve VSS shots                                    |                                     |                                     |
