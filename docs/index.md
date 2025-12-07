@@ -113,9 +113,13 @@ steam_appid.txt
 | ![](img/Pasted%20image%2020251119173246.png) | ![](img/Pasted%20image%2020251119173353.png) |
 
 
-| Scribbled old metrocop texture (authenticity ambiguous)                                   |        
-| -------------------------------------------- | 
-| ![](img/PEL_DELETED_IT_ALL.webp) |
+| Scribbled old metrocop texture (authenticity ambiguous) |
+| ------------------------------------------------------- |
+| ![](img/PEL_DELETED_IT_ALL.webp)                        |
+
+| Cover Art Gordon XSI Screenshot|
+| ------------------------------------------------------- |
+| ![](img/LZH5xSAg.png)                       |
 ### Half-Life 2: Episode 2
 
 * [Different EP2 files from the Postal 3 leak](https://drive.google.com/file/d/19aTKWPcADZLIdy9l3SHH3inNRW8_Rkfa/view)
