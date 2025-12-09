@@ -96,6 +96,7 @@ steam_appid.txt
 * [Dario's 25th anniversary mapping commentary](https://youtu.be/naWgflzwwTc)
 * [Various screenshots and concept art](img/hlarchivebeta7.zip)
 * [Beta surface tension pipe](https://www.youtube.com/watch?v=9so8YeFis4E) -> See 0:41
+	* [Another video with the footage](https://www.youtube.com/watch?v=tRnV836KGjU)
 
 ### Half-Life 2
 
