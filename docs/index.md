@@ -214,8 +214,19 @@ steam_appid.txt
 | --- | --- |
 | ![](img/4553331491_3754a22583_o.webp)    | ![](img/4553333117_a828fcbb5b_o.webp)    |
 
-## Mods
+## Valve Archive
 
+### Videos
+
+* [Half-Life: Uplink](https://www.youtube.com/watch?v=D6XnwAhkgbU)
+* [Half-Life's Tau Cannon](https://www.youtube.com/watch?v=ieTTsIZSzlI)
+	* [Extra: Half-Life Alyx's Tau Cannon Particles](https://www.youtube.com/watch?v=Ux97BiKGFwM)
+* [Steam Developers Conference '06](https://www.youtube.com/watch?v=CCRBfN-xtdc)
+
+* [The Clay Sculptures of Gunman Chronicles](https://www.youtube.com/watch?v=I7RjCBRikag)
+* [The Half-Life 2 Theft: An interview with James Watt](https://www.youtube.com/watch?v=jtwPu1Bpas8)
+
+## Mods
 
 ### Boreal Alyph
 
@@ -232,7 +243,7 @@ steam_appid.txt
 
 ### Exposure
 
-* [Build from 2023/01/01](https://hgrunt.xyz/filedrop/Exposure%201-10-23.7z)
+* [Build from 2023/01/10](https://hgrunt.xyz/filedrop/Exposure%201-10-23.7z)
 
 ---
 * [Exposure clips 1](https://drive.google.com/file/d/1liZ6AvuS1AM-NY5-EwOTXS-YnUXhRkGn/view)
