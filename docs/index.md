@@ -167,7 +167,7 @@ steam_appid.txt
 ---
 * [Moby Francke powerpoint file](https://docs.google.com/presentation/d/1qGb_AYyrTXXWniJ30ByE9kYJCIUxhs6p/edit?usp=sharing&ouid=109539870747969870414&rtpof=true&sd=true)
 	* [Extracted Images](img/media.zip)
-<!--	* <b>[Image coverage](article/Moby_Francke)</b>-->
+	* <b>[႟Image coverage article](article/Moby_Powerpoint)</b>
 
 ---
 * [Fixed XML DMXs](https://drive.google.com/file/d/1OV4i6xm3aeqNHiS2ytML0src7X73E2DA/view)
@@ -249,6 +249,10 @@ steam_appid.txt
 ---
 * [Exposure clips 1](https://drive.google.com/file/d/1liZ6AvuS1AM-NY5-EwOTXS-YnUXhRkGn/view)
 * [Exposure clips 2](https://drive.google.com/file/d/1B3AMM_nLyakRlDhfI_s7pW6axyPptJ-i/view)
+
+### They Hunger: Lost Souls
+
+* [2006, 2008 Builds](https://archive.org/details/87684-THLSalph-6874)
 
 ### TF2
 
