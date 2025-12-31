@@ -185,6 +185,7 @@ steam_appid.txt
 * [Early Expiration Date assets](img/fixedshorts.7z)
 * [Recovered Expiration Date scout dance](https://drive.google.com/file/d/1Fmlvtn5A3T-l1PNlWJZaE3D2XFLfLkle/view) [(Source)](https://x.com/sealgb/status/1880356024282149201#m)
 * [Original Meet The Spy monologue](img/bateman_first_spy.wav)
+* [The Making of Arena_Watchtower](https://www.youtube.com/watch?v=p120yAhXblM)
 
 | Spy Image    | 
 | --- | 
