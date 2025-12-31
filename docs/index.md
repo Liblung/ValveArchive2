@@ -118,9 +118,9 @@ steam_appid.txt
 | ------------------------------------------------------- |
 | ![](img/PEL_DELETED_IT_ALL.webp)                        |
 
-| Cover Art Gordon XSI Screenshot|
-| ------------------------------------------------------- |
-| ![](img/LZH5xSAg.png)                       |
+| Cover Art Gordon XSI Screenshot| Mysterious Kleiner |
+| ------------------------------------------------------- | --- |
+| ![](img/LZH5xSAg.png)                       | ![](img/IMG_0088.webp)
 ### Half-Life 2: Episode 2
 
 * [Different EP2 files from the Postal 3 leak](https://drive.google.com/file/d/19aTKWPcADZLIdy9l3SHH3inNRW8_Rkfa/view)
