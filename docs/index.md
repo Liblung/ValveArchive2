@@ -145,7 +145,7 @@ steam_appid.txt
 ### Portal
 
 * [Portal 2 2014 developer build](https://mega.nz/file/KNADTBxJ#tKb_grGtl5h4qKZLiQFq9T5RXf4aAfmkqU9ux6oNkYo)
-* [Archive of early postrelease Portal 2 depots](https://gofile.io/d/J6h8ed)
+<!-- * [Archive of early postrelease Portal 2 depots](https://gofile.io/d/J6h8ed) -->
 
 ---
 * [Pel's "celestine_body"](https://drive.google.com/file/d/17TAaG-AR1QUs4PxuuhUZpf2oXrRZ9KA5/view?usp=sharing)
@@ -165,9 +165,13 @@ steam_appid.txt
 * [Organized archive of older builds](https://docs.google.com/spreadsheets/d/1ltvVYhmY4GbBqmNa8OIt1-WzJ-XGZwcj06qlKdahzQg/edit?gid=1378522990#gid=1378522990)
 
 ---
+* [Dario Casali FTP Dustbowl2 VMF](img/Dustbowl2.zip)
+<!-- * [Apr 2006 Valve Tour, TF2 Shots]()
+	* [႟Image coverage, notable shots](article/Apr_2006_Valve_Tour)-->
+---
 * [Moby Francke powerpoint file](https://docs.google.com/presentation/d/1qGb_AYyrTXXWniJ30ByE9kYJCIUxhs6p/edit?usp=sharing&ouid=109539870747969870414&rtpof=true&sd=true)
 	* [Extracted Images](img/media.zip)
-	* <b>[႟Image coverage article](article/Moby_Powerpoint)</b>
+	* [႟Image coverage article](article/Moby_Powerpoint)
 
 ---
 * [Fixed XML DMXs](https://drive.google.com/file/d/1OV4i6xm3aeqNHiS2ytML0src7X73E2DA/view)

@@ -5,10 +5,7 @@ This article catalogues notable elements of the Moby Francke powerpoint.
 	* [Extracted Images](../img/media.zip)
 
 
-## New Media
-
-
-|     |     |  |
+| New Media    |     |  |
 | --- | --- | --- |
 | ![](../img/image22.jpg)    | ![](../img/image11.jpg)    |  ![](../img/Pasted%20image%2020251230175623.png) |
 | ![](../img/image60.jpg) | ![](../img/image46.jpg) | ![](../img/Pasted%20image%2020251230180719.png) |
@@ -25,9 +22,7 @@ This article catalogues notable elements of the Moby Francke powerpoint.
 | ![](../img/Pasted%20image%2020251230175933.png) | ![](../img/image80.jpg) | ![](../img/Pasted%20image%2020251230175956.png)
 | ![](../img/Pasted%20image%2020251230180801.png) | |
 
-## Comparisons
-
-|                             |                       |                        |
+| Comparisons                            |                       |                        |
 | --------------------------- | --------------------- | ---------------------- |
 | ![](../img/pyrocompare.gif) | ![](../img/medic.gif) | ![](../img/meedic.gif) |
 | ![](../img/engineer.gif)         | ![](../img/engi.gif)                      | ![](../img/pyro2.gif)                       |
