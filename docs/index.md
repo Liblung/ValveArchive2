@@ -32,6 +32,8 @@ Feedback? Dead links? Contributions? Let us know on [Discord](https://discord.gg
 
 ### Counter Strike
 
+* * Check [Hidden Palace](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_(Aug_8,_2011_prototype) for an exhaustive listing of builds and maintained links. 
+
 * [2011/08/10 Build](https://drive.google.com/file/d/1bsp3UiwOnwFD1VCz5VHZEJnSo7bQ8owS/view)
 * [2011/12/22 Build](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Dec_22,_2011_prototype\))
 * [2012/06/18 Build](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(June_18,_2012_prototype\))
@@ -39,6 +41,9 @@ Feedback? Dead links? Contributions? Let us know on [Discord](https://discord.gg
 * [2012/09/13 Build 2](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Sep_13,_2012_22.37_prototype\))
 * [2012/09/13 Build 3](https://hiddenpalace.org/Counter-Strike:_Global_Offensive_\(Sep_13,_2012_23.20_prototype\))
 * [CS Xbox Beta Files](https://drive.google.com/file/d/12Wq6H2dwM46_zJus21MtP77-dTk7eOYZ/view?usp=sharing)
+
+---
+* [Prerelease CZ client.dll found in HL2 demo CD](img/client.dll)
 
 ---
 
@@ -91,12 +96,18 @@ steam_appid.txt
 * [Half-Life: Source developer repo](https://drive.google.com/file/d/1XgdbsWULhkWs6eBbrQnFcLTe92reKQz5/view?usp=sharing)
 * [Half-Life Animation Development Files](https://archive.org/details/hldevfiles)
 * [SDKPatch](img/SDKPatch_1.7z)
+
 ---
+| Chad Screenshot spread photo | 
+| ------------------------------------------------------- |
+| ![](img/Pasted%20image%2020260310151718.png)                       | 
+
 * [Missing Half-Life monster demonstrations](https://archive.org/details/monsteroftheweek_202303)
 * [Dario's 25th anniversary mapping commentary](https://youtu.be/naWgflzwwTc)
 * [Various screenshots and concept art](img/hlarchivebeta7.zip)
 * [Beta surface tension pipe](https://www.youtube.com/watch?v=9so8YeFis4E) -> See 0:41
 	* [Another video with the footage](https://www.youtube.com/watch?v=tRnV836KGjU)
+* [Half-Life on Computer Chronicles' 1998 Consumer Buying Guide](https://www.youtube.com/watch?v=5s8oMM-OnSU)
 
 ### Half-Life 2
 
@@ -144,7 +155,7 @@ steam_appid.txt
 
 ### Portal
 
-* [Portal 2 2014 developer build](https://mega.nz/file/KNADTBxJ#tKb_grGtl5h4qKZLiQFq9T5RXf4aAfmkqU9ux6oNkYo)
+* [Portal 2 2014 developer build](https://mega.nz/file/KNADTBxJ#tKb_grGtl5h4qKZLiQFq9T5RXf4aAfmkqU9ux6oNkYo) [(Drive)](https://drive.google.com/file/d/1SGb-YKjfxPlH04Qjy4XTviROpodoNdq7/view)
 <!-- * [Archive of early postrelease Portal 2 depots](https://gofile.io/d/J6h8ed) -->
 
 ---
@@ -275,6 +286,11 @@ steam_appid.txt
 #### Pre-Fortress
 
 * [Early Source Release](https://archive.org/details/pf2-src-master)
+
+### Misc
+
+* [FUBAR Github, Alter Source, Restrike, Overcharged Src](https://archive.org/details/09-feb-2026-random-leaked-shit)
+* [FUBAR Development Build](https://drive.google.com/drive/u/8/folders/1_ESzOY-7apcMXg40oWsB87g0Dn9Det8V)
 
 ## Other
 
